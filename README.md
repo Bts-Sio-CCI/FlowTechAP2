@@ -42,3 +42,4 @@ npm run csscompile
 
 -   PHP
 -   MySQL
+-   SSH
